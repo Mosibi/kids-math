@@ -1,0 +1,8 @@
+Math program for kids
+
+Written by Richard Arends (richard@unixguru.nl) for his 6 year old son
+
+The program knows 10 levels  A level stands for the highest number we calculate with. So within level 1
+the highest number will be 5 and within level 7 the highest number will be 100
+
+It works with the operands + and - but is easily extended with more.
